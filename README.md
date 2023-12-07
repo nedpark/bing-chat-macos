@@ -1,3 +1,5 @@
+This project has been terminated due to Microsoft Copilot’s support for Safari.
+
 # Bing Chat for macOS
 WebKit-based Bing Chat exclusive macOS app
 
